@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notre-Dame de Paris</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group members</title>
+      <link>https://example.com/group_members/</link>
+      <pubDate>Wed, 16 Dec 2020 17:20:18 +0100</pubDate>
+      
+      <guid>https://example.com/group_members/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
