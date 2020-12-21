@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BioML</title>
-    <link>https://ku-bioml.github.io/</link>
-    <description>Recent content on BioML</description>
+    <title>Publications on BioML</title>
+    <link>https://ku-bioml.github.io/publications/</link>
+    <description>Recent content in Publications on BioML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://ku-bioml.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ku-bioml.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>https://ku-bioml.github.io/publications/chapter-6/</link>
