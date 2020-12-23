@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on BioML</title>
+    <link>https://ku-bioml.github.io/news/</link>
+    <description>Recent content in News on BioML</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ku-bioml.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NNF grant</title>
+      <link>https://ku-bioml.github.io/news/_index-copy/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ku-bioml.github.io/news/_index-copy/</guid>
+      <description>Ole Winther, Professor, Aasa Feragen-Hauberg, Søren Hauberg, Jes Frellsen, Anders Krogh and Wouter Boomsma received a prestigious grant from the Novo Nordisk Foundation (NNF) for collaborative research!</description>
+    </item>
+    
+  </channel>
+</rss>
