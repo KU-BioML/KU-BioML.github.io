@@ -38,6 +38,55 @@
   </url>
   
   <url>
+    <loc>https://ku-bioml.github.io/publications/developing-and-validating-covid-19-adverse-outcome-risk-prediction-models-from-a-bi-national-european-cohort-of-5594-patients/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/publications/orchestration-of-signaling-by-structural-disorder-in-class-1-cytokine-receptors/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/publications/random-coil-chemical-shifts-for-serine-threonine-and-tyrosine-phosphorylation-over-a-broad-ph-range/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/publications/iddomainspotter-compositional-bias-reveals-domains-in-long-disordered-protein-regionsinsights-from-transcription-factors/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/publications/the-pcna-interaction-motifs-revisited-thinking-outside-the-pip-box/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/publications/barnaba-software-for-analysis-of-nucleic-acid-structures-and-trajectories/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/publications/3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data/</loc>
+    <lastmod>2018-12-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ku-bioml.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
