@@ -24,7 +24,7 @@
       
       <guid>https://ku-bioml.github.io/publications/developing-and-validating-covid-19-adverse-outcome-risk-prediction-models-from-a-bi-national-european-cohort-of-5594-patients/</guid>
       <description>&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&#34;espen-jimenez-solem-tonny-s-petersen-casper-hansen-christian-hansen-christina-lioma-christian-igel-wouter-boomsma-oswin-krause-stephan-lorenzen-raghavendra-selvan-janne-petersen-martin-erik-nyeland-mikkel-zöllner-ankarfeldt-gert-mehl-virenfeldt-matilde-wintherjensen-allan-linneberg-mostafa-mediphour-ghazi-nicki-detlefsen-&#34;&gt;Espen Jimenez-Solem, Tonny S Petersen, Casper Hansen, Christian Hansen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Matilde WintherJensen, Allan Linneberg, Mostafa Mediphour Ghazi, Nicki Detlefsen, &amp;hellip;&lt;/h4&gt;</description>
+&lt;h4 id=&#34;espen-jimenez-solem-tonny-s-petersen-casper-hansen-christian-hansen-christina-lioma-christian-igel-wouter-boomsma-detailssummary-_click-for-more-authors_-summaryoswin-krause-stephan-lorenzen-raghavendra-selvan-janne-petersen-martin-erik-nyeland-mikkel-zöllner-ankarfeldt-gert-mehl-virenfeldt-matilde-wintherjensen-allan-linneberg-mostafa-mediphour-ghazi-nicki-detlefsen-andreas-lauritzen-abraham-george-smith-marleen-de-bruijne-bulat-ibragimov-jens-petersen-martin-lillholm-jon-middleton-stine-hasling-mogensen-hans-christian-thorsen-meyer-anders-perner-marie-helleberg-benjamin-skov-kaas-hansen-mikkel-bonde-alexander-bonde-akshay-pai-mads-nielsen-and-martin-sillesen&#34;&gt;Espen Jimenez-Solem, Tonny S Petersen, Casper Hansen, Christian Hansen, Christina Lioma, Christian Igel, Wouter Boomsma, &amp;hellip;&lt;details&gt;&lt;summary&gt; &lt;em&gt;click for more authors&lt;/em&gt; &lt;/summary&gt;Oswin Krause, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Matilde WintherJensen, Allan Linneberg, Mostafa Mediphour Ghazi, Nicki Detlefsen, Andreas Lauritzen, Abraham George Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton, Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Marie Helleberg, Benjamin Skov Kaas-Hansen, Mikkel Bonde, Alexander Bonde, Akshay Pai, Mads Nielsen and Martin Sillesen&lt;/h4&gt;</description>
     </item>
     
     <item>
@@ -85,6 +85,36 @@
       <guid>https://ku-bioml.github.io/publications/3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data/</guid>
       <description>&lt;p&gt;&lt;em&gt;Advances in Neural Information Processing Systems 31 &lt;/br&gt;(NeurIPS 2018)&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&#34;maurice-weiler-mario-geiger-max-welling-wouter-boomsma-taco-s-cohen&#34;&gt;Maurice Weiler, Mario Geiger, Max Welling, Wouter Boomsma, Taco S. Cohen&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Sampling of Protein Folding by Combining an All-Atom Physics-Based Model with a Native State Bias</title>
+      <link>https://ku-bioml.github.io/publications/monte-carlo-sampling-of-protein-folding-by-combining-an-all-atom-physics-based-model-with-a-native-state-bias/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ku-bioml.github.io/publications/monte-carlo-sampling-of-protein-folding-by-combining-an-all-atom-physics-based-model-with-a-native-state-bias/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of Physical Chemistry B&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;yong-wang-pengfei-tian-wouter-boomsma-and-kresten-lindorff-larsen&#34;&gt;Yong Wang, Pengfei Tian, Wouter Boomsma, and Kresten Lindorff-Larsen&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>Driving Structural Transitions in Molecular Simulations Using the Nonequilibrium Candidate Monte Carlo</title>
+      <link>https://ku-bioml.github.io/publications/driving-structural-transitions-in-molecular-simulations-using-the-nonequilibrium-candidate-monte-carlo/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ku-bioml.github.io/publications/driving-structural-transitions-in-molecular-simulations-using-the-nonequilibrium-candidate-monte-carlo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Journal of Physical Chemistry B&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;anıl-kurut-rasmus-fonseca-and-wouter-boomsma&#34;&gt;Anıl Kurut, Rasmus Fonseca, and Wouter Boomsma&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spherical convolutions and their application in molecular modelling</title>
+      <link>https://ku-bioml.github.io/publications/spherical-convolutions-and-their-application-in-molecular-modelling/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ku-bioml.github.io/publications/spherical-convolutions-and-their-application-in-molecular-modelling/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Advances in Neural Information Processing Systems 30&lt;/br&gt;(NIPS 2017)&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;wouter-boomsma-jes-frellsen&#34;&gt;Wouter Boomsma, Jes Frellsen&lt;/h4&gt;</description>
     </item>
     
   </channel>
