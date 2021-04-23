@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://ku-bioml.github.io/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ku-bioml.github.io/news/welcome_sebastian/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <loc>https://ku-bioml.github.io/news/welcome_frederikke/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ku-bioml.github.io/news/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ku-bioml.github.io/news/welcome_sebastian/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

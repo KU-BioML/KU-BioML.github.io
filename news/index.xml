@@ -6,7 +6,16 @@
     <description>Recent content in News on BioML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ku-bioml.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ku-bioml.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New PhD student: Frederikke</title>
+      <link>https://ku-bioml.github.io/news/welcome_frederikke/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ku-bioml.github.io/news/welcome_frederikke/</guid>
+      <description>We&amp;rsquo;re happy to have Frederikke Isa Marin in our group as a new PhD student! Frederikke is an industrial PhD student, shared between KU &amp;amp; Novozymes. She&amp;rsquo;s interested in modelling DNA and protein sequences using machine learning.</description>
+    </item>
+    
     <item>
       <title>New PhD student: Sebastián</title>
       <link>https://ku-bioml.github.io/news/welcome_sebastian/</link>
