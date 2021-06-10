@@ -1,148 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ku-bioml.github.io/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/news/welcome_frederikke/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/news/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/news/welcome_sebastian/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/news/nnf_grant/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/what-is-a-meaningful-representation-of-protein-sequences/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/developing-and-validating-covid-19-adverse-outcome-risk-prediction-models-from-a-bi-national-european-cohort-of-5594-patients/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/orchestration-of-signaling-by-structural-disorder-in-class-1-cytokine-receptors/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/random-coil-chemical-shifts-for-serine-threonine-and-tyrosine-phosphorylation-over-a-broad-ph-range/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/iddomainspotter-compositional-bias-reveals-domains-in-long-disordered-protein-regionsinsights-from-transcription-factors/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/the-pcna-interaction-motifs-revisited-thinking-outside-the-pip-box/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/barnaba-software-for-analysis-of-nucleic-acid-structures-and-trajectories/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data/</loc>
     <lastmod>2018-12-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/monte-carlo-sampling-of-protein-folding-by-combining-an-all-atom-physics-based-model-with-a-native-state-bias/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/driving-structural-transitions-in-molecular-simulations-using-the-nonequilibrium-candidate-monte-carlo/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/publications/spherical-convolutions-and-their-application-in-molecular-modelling/</loc>
     <lastmod>2017-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/people/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ku-bioml.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
