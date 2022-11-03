@@ -1,0 +1,9 @@
+# Get rid of junk files
+.DS_Store
+
+# hugo files/folders
+/public/
+/resources/_gen/
+/assests/jsconfig.json
+hugo_stats.jsonkk
+/.hugo_build.lock
