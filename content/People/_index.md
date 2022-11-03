@@ -102,19 +102,6 @@ Although I have mainly worked with proteins my PhD project (in collaboration wit
 
 <br /><br />
 
-<h4 id="jacob"></h4>
-
-![](/images/Jacob.png) <br />
-#### Jacob Kæstel-Hansen<br><span style="font-weight:normal">(master student)</span>
-<strong><em>Main interest:</em></strong> <br />
-Mapping mutational effects on proteins using machine learning.
-
-</br> | | | | | |
-:-:|:-:|:-:|:-:|:-:|:-:|
-| ![](/social/half_filler.png) |![](/social/filler.png) | [![](/social/email.png)](mailto:bzx569@alumni.ku.dk) |[![](/social/linkedin.png)](https://dk.linkedin.com/in/jacob-k%C3%A6stel-hansen-502008115)  | ![](/social/filler.png) | ![](/social/half_filler.png) |
-
-<br /><br />
-
 <h4 id="richard"></h4>
 
 ![](/images/Richard1.png) <br />
@@ -159,6 +146,19 @@ Protein design and how to incorporate protein dynamics into machine learning mod
 </br> | | | | | |
 :-:|:-:|:-:|:-:|:-:|:-:|
 | ![](/social/half_filler.png) |[![](/social/twitter.png)](https://twitter.com/BengtsenTone) | [![](/social/email.png)](mailto:tone.bengtsen@di.ku.dk) |[![](/social/github.png)](https://github.com/tbengtsen)  | [![](/social/linkedin.png)](https://www.linkedin.com/in/tone-bengtsen?originalSubdomain=dk) | ![](/social/half_filler.png) |
+
+<h4 id="jacob"></h4>
+
+![](/images/Jacob.png) <br />
+#### Jacob Kæstel-Hansen<br><span style="font-weight:normal">(previously master student)</span>
+<strong><em>Main interest:</em></strong> <br />
+Mapping mutational effects on proteins using machine learning.
+
+</br> | | | | | |
+:-:|:-:|:-:|:-:|:-:|:-:|
+| ![](/social/half_filler.png) |![](/social/filler.png) | [![](/social/email.png)](mailto:bzx569@alumni.ku.dk) |[![](/social/linkedin.png)](https://dk.linkedin.com/in/jacob-k%C3%A6stel-hansen-502008115)  | ![](/social/filler.png) | ![](/social/half_filler.png) |
+
+<br /><br />
 
 
 [//]: # (COMMENTED </br> | | | | |
