@@ -11,7 +11,7 @@ featured_image: './images/hexagons2.png'
 <h4 id="wouter"></h4>
 
 ![](/images/Wouter.png) <br />
-#### Wouter Boomsma<br><span style="font-weight:normal">(associate professor)</span>
+#### Wouter Boomsma<br><span style="font-weight:normal">(professor)</span>
 <details>
 <summary> <strong><em>Main interest (click to expand):</em></strong> <br />
 Development of Machine Learning techniques for solving fundamental challenges in biology.<br />
