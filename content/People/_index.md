@@ -120,6 +120,28 @@ In research, my main motivation is gaining an in depth understanding and finding
 
 <br /><br />
 
+<h4 id="laurits"></h4>
+
+![](/images/laurits.png) <br />
+#### Laurits Fredsgaard Larsen<br><span style="font-weight:normal">(student)</span>
+<details>
+<summary> <strong><em>Main interests (click to expand):</em></strong> <br />
+</summary>
+<br />
+My focus during the my master's degree in Molecular Biomedicine was on
+designing and producing proteins for making modular virus like particle
+vaccines.
+I am now particularly interesting in using deep learning and generative models
+to guide intelligent protein design.
+</details>
+
+</br> | | | | |
+:-:|:-:|:-:|:-:|:-:|
+| ![](/social/filler.png) |[![](/social/github.png)](https://github.com/lauritsf) |[![](/social/website.png)](http://laurits.me/) | [![](/social/linkedin.png)](https://www.linkedin.com/in/lauritsfredsgaard/) | ![](/social/filler.png) |
+
+
+<br /><br />
+
 # Alumni
 
 <h4 id="maher"></h4>
