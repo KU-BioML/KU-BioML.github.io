@@ -105,7 +105,7 @@ Although I have mainly worked with proteins my PhD project (in collaboration wit
 <h4 id="richard"></h4>
 
 ![](/images/Richard1.png) <br />
-#### Richard Michael<br><span style="font-weight:normal">(master student)</span>
+#### Richard Michael<br><span style="font-weight:normal">(PhD student)</span>
 <details>
 <summary> <strong><em>Main interests (click to expand):</em></strong> <br />
 Probabilistic/Bayesian Machine Learning,<br />Probabilistic Modeling. <br />
