@@ -181,8 +181,3 @@ Mapping mutational effects on proteins using machine learning.
 | ![](/social/half_filler.png) |![](/social/filler.png) | [![](/social/email.png)](mailto:bzx569@alumni.ku.dk) |[![](/social/linkedin.png)](https://dk.linkedin.com/in/jacob-k%C3%A6stel-hansen-502008115)  | ![](/social/filler.png) | ![](/social/half_filler.png) |
 
 <br /><br />
-
-
-[//]: # (COMMENTED </br> | | | | |
-:-:|:-:|:-:|:-:|:-:|
-![](/social/twitter.png) |  ![](/social/email.png) |![](/social/github.png)  |![](/social/website.png)  | ![](/social/linkedin.png) |)
