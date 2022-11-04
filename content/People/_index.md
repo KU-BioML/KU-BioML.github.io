@@ -123,7 +123,7 @@ TODO details interests
 <h4 id="peter"></h4>
 
 ![](/images/peter.png) <br />
-#### Pater Mørch Groth<br><span style="font-weight:normal">(industrial PhD student, shared between KU & <a href="https://www.novozymes.com/en">Novozymes</a>)</span>
+#### Peter Mørch Groth<br><span style="font-weight:normal">(industrial PhD student, shared between KU & <a href="https://www.novozymes.com/en">Novozymes</a>)</span>
 <details>
 <summary><strong><em>Main interests (click to expand):</em></strong> <br />
 TODO main interests
