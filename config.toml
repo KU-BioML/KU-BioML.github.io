@@ -15,7 +15,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  googleMapsAPIKey = "AIzaSyBbcsRKwexmtuLdcet8A5CDqcRsbYdZDMU"
   favicon = ""
   site_logo = "/images/logo2.png"
   description = "Biology and Machine Learning group at the University of Copenhagen."
