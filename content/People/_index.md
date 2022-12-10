@@ -102,6 +102,42 @@ Although I have mainly worked with proteins my PhD project (in collaboration wit
 
 <br /><br />
 
+<h4 id="mads"></h4>
+
+![](/images/mads.png) <br />
+#### Mads Kerrn<br><span style="font-weight:normal">(PhD student)</span>
+<details>
+<summary><strong><em>Main interests (click to expand):</em></strong> <br />
+TODO main interests
+</summary>
+<br />
+TODO details interests
+</details>
+
+</br> | | | | | |
+:-:|:-:|:-:|:-:|:-:|:-:|
+| ![](/social/half_filler.png) |[![](/social/twitter.png)](https://twitter.com/TODO) | [![](/social/email.png)](mailto:make@di.ku.dk) |[![](/social/github.png)](https://github.com/TODO)  | [![](/social/linkedin.png)](https://www.linkedin.com/in/mads-kerrn-627093103) | ![](/social/half_filler.png) |
+
+<br /><br />
+
+<h4 id="peter"></h4>
+
+![](/images/peter.png) <br />
+#### Peter Mørch Groth<br><span style="font-weight:normal">(industrial PhD student, shared between KU & <a href="https://www.novozymes.com/en">Novozymes</a>)</span>
+<details>
+<summary><strong><em>Main interests (click to expand):</em></strong> <br />
+TODO main interests
+</summary>
+<br />
+TODO details interests
+</details>
+
+</br> | | | | | |
+:-:|:-:|:-:|:-:|:-:|:-:|
+| ![](/social/half_filler.png) |[![](/social/twitter.png)](https://twitter.com/TODO) | [![](/social/email.png)](mailto:petergroth@di.ku.dk) |[![](/social/github.png)](https://github.com/petergroth)  | [![](/social/linkedin.png)](https://www.linkedin.com/in/peter-moerch-groth) | ![](/social/half_filler.png) |
+
+<br /><br />
+
 <h4 id="richard"></h4>
 
 ![](/images/Richard1.png) <br />
