@@ -28,22 +28,6 @@ Development of Machine Learning techniques for solving fundamental challenges in
 
 ## Current group members
 
-<h4 id="simon"></h4>
-
-![](/images/Simon.png) <br />
-#### Simon Bartels<br><span style="font-weight:normal">(postdoc)</span>
-<details>
-<summary> <strong><em>Main interests (click to expand):</em></strong> <br />
-Gaussian process inference and optimization of protein functions. <br />
-</summary>
-<br />
-On the practical side, I want to improve the protein design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. </br>
-Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore.</br>
-On the theoretical side, I am pursuing the question: how much of this data is necessary to obtain a decent (Gaussian process) model.</br>
-Importantly, I want an answer for the dataset at hand and NOT for all datasets.</br>
-For solving this problem, I am interested in optimal stopping and probably-approximately-correct bounds.
-</details>
-
 </br> | | | | |
 :-:|:-:|:-:|:-:|:-:|
 | ![](/social/filler.png) |![](/social/filler.png) |[![](/social/website.png)](https://simonbartels.github.io/)  | ![](/social/filler.png) | ![](/social/filler.png) |
@@ -142,7 +126,40 @@ to guide intelligent protein design.
 
 <br /><br />
 
+<h4 id="miguel"></h4>
+
+![](/images/miguel.png)
+#### Miguel González-Duque <br><span style="font-weight:normal">(Research Engineer)</span>
+<details>
+<summary> <strong><em>Main interests (click to expand):</em></strong> <br />
+Optimization, Deep Generative Models and Differential Geometry. <br />
+</summary>
+<br />
+I have experience combining black-box optimization and deep generative models. This has applications to optimizing discrete sequences that appear in bioinformatics (e.g. small molecules, or proteins).
+</details>
+
+</br> | | | | |
+:-:|:-:|:-:|:-:|:-:|
+| ![](/social/filler.png) |[![](/social/github.png)](https://github.com/miguelgondu) |[![](/social/website.png)](https://miguelgondu.com/about) | [![](/social/linkedin.png)](https://www.linkedin.com/in/miguelgondu/) | ![](/social/filler.png) |
+<br /><br />
+
 # Alumni
+
+<h4 id="simon"></h4>
+
+![](/images/Simon.png) <br />
+#### Simon Bartels<br><span style="font-weight:normal">(postdoc)</span>
+<details>
+<summary> <strong><em>Main interests (click to expand):</em></strong> <br />
+Gaussian process inference and optimization of protein functions. <br />
+</summary>
+<br />
+On the practical side, I want to improve the protein design workflow. With Bayesian optimization, I hope to reduce the number of expensive and time consuming wetlab experiments. </br>
+Using results from preceding experiments, unlabelled data from related tasks and simulations, should allow to make informed choices about which protein modifications are worthwhile to explore.</br>
+On the theoretical side, I am pursuing the question: how much of this data is necessary to obtain a decent (Gaussian process) model.</br>
+Importantly, I want an answer for the dataset at hand and NOT for all datasets.</br>
+For solving this problem, I am interested in optimal stopping and probably-approximately-correct bounds.
+</details>
 
 <h4 id="maher"></h4>
 
